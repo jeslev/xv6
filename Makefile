@@ -168,6 +168,7 @@ UPROGS=\
 	_mkdir\
 	_rm\
 	_sh\
+	_sort\
 	_stressfs\
 	_top\
 	_usertests\
